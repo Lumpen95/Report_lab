@@ -6,3 +6,7 @@
 https://jkunst.com/highcharter/
 
 ## 2. markdown, quarto
+
+## 3. data.table
+
+https://rfriend.tistory.com/557
