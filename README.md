@@ -3,7 +3,8 @@
 
 ## 1. highcharter
 
-https://jkunst.com/highcharter/
+https://jkunst.com/highcharter/  
+https://api.highcharts.com/highcharts/
 
 ## 2. markdown, quarto
 
