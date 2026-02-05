@@ -9,6 +9,8 @@ https://api.highcharts.com/highstock/
 
 ## 2. markdown, quarto
 
+https://quarto.org/docs/reference/
+
 ## 3. data.table
 
 https://rfriend.tistory.com/557
